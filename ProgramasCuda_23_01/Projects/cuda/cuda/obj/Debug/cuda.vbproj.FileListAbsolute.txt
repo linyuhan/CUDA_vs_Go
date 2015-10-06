@@ -1,0 +1,1 @@
+c:\users\lin\documents\visual studio 2012\Projects\cuda\cuda\bin\Debug\cuda.exe.config
